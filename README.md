@@ -106,3 +106,26 @@ I've made them more concrete and solid, and tomorrow I am already deciding on on
     - Argumentai: Gamtos dėsnių supratimas, matematinio modeliavimo taikymas, matematikos kursas.
 
 Now only time will tell.
+
+(2024-06-19 10:35 EEST) After discussing all the themes with the teacher, we concluded that to make it easier for everyone I should just do the easiest one:
+
+- Fibonačio sekos atsiradimas ir jos panaudojimas gamtos reiškinių modeliavime
+    - Tikslai
+        - Išnagrinėti Fibonačio sekos matematinį aprašymą ir jos atsiradimo istoriją.
+        - Aptarti Fibonačio sekos pasikartojimą gamtos struktūrose ir reiškiniuose.
+        - Analizuoti Fibonačio sekos taikymo galimybes realiame pasaulyje.
+        - Išanalizuoti Fibonačio sekos panaudojimą ekologijoje ir botanikoje.
+    - Uždaviniai
+        - Surinkti ir analizuoti pavyzdžius, kaip Fibonačio seka pasireiškia gamtoje.
+        - Sukurti matematinį modelį, demonstruojantį Fibonačio sekos taikymą gamtos reiškinių modeliavime.
+        - Atlikti literatūros analizę apie Fibonačio sekos taikymą moksliniuose tyrimuose.
+        - Pristatyti Fibonačio sekos taikymo atvejus ir jų svarbą moksliniuose tyrime.
+    - Produktai
+        - Pristatymas su vaizdinėmis medžiagomis, aiškinantis Fibonačio sekos matematinį modelį ir jo ryšius su gamta. O gal plakatas? Skrajutė?
+        - Fibonačio sekos tyrimas gamtoje
+    - Pavyzdys: Lapų išsidėstymas stiebe seka Fibonačio seką, nes lapai yra išdėstyti taip, kad kiekvienas naujas lapas yra pasisukęs aukso pjūvio kampu (~137.5°) nuo ankstesnio - tai leidžia maksimaliai efektyviai pasinaudoti saulės šviesą.
+    - Argumentai: Gamtos dėsnių supratimas, matematinio modeliavimo taikymas, matematikos kursas.
+
+We'll see how that goes, although, it'd be cool if I got to do one of the other ones because they're more fun, but eh, I don't mind this one either.
+
+From now on the project will continue outside the readme most likely.
