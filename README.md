@@ -1,3 +1,4 @@
+# This repository has been migrated to the self-hosted ari-web Forgejo instance: <https://git.ari.lt/ari/annual-school-project-24-25>
 # Annual student's project (2024-2025): Mathematics
 
 (2024-06-18 23:00 EEST) Last year (10th grade) I did a psychology project with a friend, it's over and done. I got a 9/10
